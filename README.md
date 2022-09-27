@@ -1,5 +1,6 @@
 # trippy.py
 A python application creating visuals for fun
+Dependencies: pygame
 
 This is a just-for-fun project.
 I am hoping to learn about visual processing and Python best practices in the process.
