@@ -1,9 +1,9 @@
 # trippy.py
-A python application creating visuals for fun
+A python application creating trippy visuals for fun
 
-Dependencies: pygame
+Dependencies: pygame pyton addon (pip install)
 
-This is a just-for-fun project.
+This is a project for fun and learning purposes
 
 I am hoping to learn about visual processing and Python best practices in the process.
 
